@@ -16,5 +16,5 @@ docker run --gpus all -it --rm open-interpreter-gpu-sandbox
 
 ### Run open-interpreter
 ```shell
-root@hostname:/# interpreter
+root@hostname:/# interpreter --local
 ```
