@@ -1,4 +1,4 @@
-# [open-interpreter-gpu-sandbox](https://nickel358.github.io/open-interpreter-gpu-sandbox/)
+# open-interpreter-gpu-sandbox
 This provides **open-interpreter** docker sandbox.
 
 In this sandbox, GPU is available.
